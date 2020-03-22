@@ -1,0 +1,29 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  font-family: 'Roboto', sans-serif;
+  overflow: hidden;
+}
+
+.IhGeq9jvBZhP-vO1H6SD {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.IhGeq9jvBZhP-vO1H6SD ._1la2SIOw3Jq5j-8Fu50jSf canvas {
+      width: 100%;
+      height: 100%;
+    }
+
+.yellow {
+    background-color: yellow;
+  }
